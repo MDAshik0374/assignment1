@@ -95,7 +95,7 @@ export default function Footer() {
             <div className="flex flex-col gap-8">
               <a href="blog-details.html" className="group flex items-center gap-[22px]">
                 <div className="overflow-hidden rounded">
-                  <img src="src/assets/images/blog/blog-footer-01.jpg" alt="blog" />
+                  <img src="./src/assets/images/blog/blog-footer-01.jpg" alt="blog" />
                 </div>
                 <span className="max-w-[180px] text-base text-gray-7 group-hover:text-white">
                   I think really important to design with...
@@ -103,7 +103,7 @@ export default function Footer() {
               </a>
               <a href="blog-details.html" className="group flex items-center gap-[22px]">
                 <div className="overflow-hidden rounded">
-                  <img src="src/assets/images/blog/blog-footer-02.jpg" alt="blog" />
+                  <img src="./src/assets/images/blog/blog-footer-02.jpg" alt="blog" />
                 </div>
                 <span className="max-w-[180px] text-base text-gray-7 group-hover:text-white">
                   Recognizing the need is the primary...
