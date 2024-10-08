@@ -39,7 +39,7 @@ export default function HeroSection() {
         <div className="w-full px-4">
           <div className=" relative z-10 mx-auto max-w-[845px]">
             <div className="mt-16">
-              <img src="/src/assets/images/hero/hero-image.png" alt="hero"
+              <img src="/assets/images/hero/hero-image.png" alt="hero"
                 className="mx-auto max-w-full rounded-t-xl rounded-tr-xl" />
             </div>
             <div className="absolute -left-9 bottom-0 z-[-1]">
